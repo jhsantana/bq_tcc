@@ -23,3 +23,4 @@ Route::get('/professores/novo', 'ProfessorController@novo');
 
 Route::post('/professores/cadastrar', 'ProfessorController@cadastrar');
 
+Route::get('/alunos/novo', 'AlunoController@novo');

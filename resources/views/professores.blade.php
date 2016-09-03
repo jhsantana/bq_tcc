@@ -7,7 +7,7 @@
 <body>
 	<div class="container">
 		<table class="table">		
-			<tr bgcolor="#6699ff">
+			<tr>
 				<td> ID</td>
 				<td> Matricula</td>
 				<td> Nome</td>
